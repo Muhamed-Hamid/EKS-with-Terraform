@@ -1,4 +1,6 @@
 # EKS-with-Terraform
 Deploy EKS cluster with Terraform IaC
 
-most of assistance from Terraform documents. 
+most assistance from Terraform documents. 
+
+You need to customize vars.tf based on your data. 
